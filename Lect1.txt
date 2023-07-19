@@ -1,4 +1,6 @@
 Hi all
 	  Welcome to DSS...!
 
-	Welcome to git and github..!
+	Welcome to git and github.
+  Welcome to DSS...!
+  Welcome to Fullstack devlopment batch
