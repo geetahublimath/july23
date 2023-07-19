@@ -4,3 +4,5 @@ Hi all
 	Welcome to git and github.
  
 	Welcome to Fullstack devlopment batch
+
+	Timing-7pm to 9pm
