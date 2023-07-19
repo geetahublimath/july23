@@ -1,4 +1,7 @@
 class Hello
 {
+main()
+{
 syso("Hello");
+}
 }
