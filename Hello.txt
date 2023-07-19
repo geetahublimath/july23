@@ -2,6 +2,6 @@ class Hello
 {
 	main()
 	{
-		syso("Hello World");
+		system.out.println("Hello World");
 	}
 }
